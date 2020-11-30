@@ -11945,7 +11945,6 @@ SOURCES += \
 	"$$GameOffRootPath/Source/GameOff/Private/CoverSystem/MyEnvQueryItemType_CoverPoint.cpp" \
 	"$$GameOffRootPath/Source/GameOff/Private/CoverSystem/TakeCover.cpp" \
 	"$$GameOffRootPath/Source/GameOff/Private/CoverSystem/Test_DotToCoverDirection.cpp" \
-	"$$GameOffRootPath/Source/GameOff/Private/Enemies/BP_DefaultEnemy.cpp" \
 	"$$GameOffRootPath/Source/GameOff/Private/Enemies/DefaultEnemy.cpp" \
  
 

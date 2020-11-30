@@ -15911,7 +15911,6 @@ HEADERS += \
 	"$$GameOffRootPath/Source/GameOff/Public/CoverSystem/MyEnvQueryItemType_CoverPoint.h" \
 	"$$GameOffRootPath/Source/GameOff/Public/CoverSystem/TakeCover.h" \
 	"$$GameOffRootPath/Source/GameOff/Public/CoverSystem/Test_DotToCoverDirection.h" \
-	"$$GameOffRootPath/Source/GameOff/Public/Enemies/BP_DefaultEnemy.h" \
 	"$$GameOffRootPath/Source/GameOff/Public/Enemies/DefaultEnemy.h" \
  
 
